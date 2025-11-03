@@ -1,12 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QnV1lZz2)
 
-
-# Advanced Multi-Agent RAG System: Final Project
-
-This repository is the final integrated project that stitches together the work from:
-- **Assignment 1 (Parts 1 & 2):** Data processing, chunking, embedding, and Pinecone vector database retrieval.
-- **Assignment 3:** Fine-tuning a T5 model using LoRA for summarization.
-- **Assignment 4:** Building an advanced agentic RAG workflow using LangGraph.
+# SocialSenseAI: Advanced Multi-Agent RAG System
 
 The system implements an advanced Retrieval-Augmented Generation (RAG) workflow that uses multiple LLM-based agents. At least one of these agents uses a LoRA fine-tuned T5 model. 
 **My project runs within 5 min, therefore according to TA Tom, I don't need a Unit Test**.
